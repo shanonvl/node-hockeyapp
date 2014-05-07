@@ -1,5 +1,5 @@
 (function() {
 
-  module.exports = require('./HockeyAppAPI');
+  module.exports = require('./lib/HockeyAppAPI');
 
 }).call(this);

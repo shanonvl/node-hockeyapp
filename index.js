@@ -1,4 +1,4 @@
-(function() {
+(function () {
 
   module.exports = require('./lib/HockeyAppAPI');
 
